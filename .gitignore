@@ -1,0 +1,6 @@
+# ignore system files
+.env 
+
+# ignore python catch files
+.pyc
+__pychche__
