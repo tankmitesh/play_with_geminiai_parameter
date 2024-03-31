@@ -1,8 +1,7 @@
 # Play with parameters : Gemini AI 
 
 ## Introduction
-
-This project is a generative AI-based application using the Gemini AI API. It allows users to summary of the context, question answer and code analysis.
+This project is a cool tool powered by advanced AI called the Gemini AI API. It helps you do three main things: summarize text, answer questions using different settings, and learn about those settings through experiments. It's like having a smart helper that makes understanding and working with text easier.
 
 
 ## Getting Started
